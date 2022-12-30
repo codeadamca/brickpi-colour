@@ -1,6 +1,6 @@
 # Dexter BrickPi and the Touch Sensor
 
-A Python snippet utilizing the LEGO EV3 colur sensor, the Dexter PrickPi and [BrickPi3](https://github.com/DexterInd/BrickPi3). [BrickPi3](https://github.com/DexterInd/BrickPi3) is the Dexter recommended method of using the BrickPi with Python. 
+A Python snippet utilizing the LEGO EV3 colur sensor, the Dexter BrickPi and [BrickPi3](https://github.com/DexterInd/BrickPi3). [BrickPi3](https://github.com/DexterInd/BrickPi3) is the Dexter recommended method of using the BrickPi with Python. 
 
 This example detects colour and prints the colour name to the terminal. 
 
